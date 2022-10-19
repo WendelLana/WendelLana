@@ -1,5 +1,5 @@
-### Hi there 👋
-## Olá, meu nome é <strong>Wendel Fernandes de Lana!</strong>
+## Olá 👋
+### Meu nome é <strong>Wendel Fernandes de Lana!</strong>
 
 :school: Me formei como técnico em Informática pela <a href="https://etecjardimangela.com.br/">ETEC Jardim Ângela</a> do Centro Paula Souza em 2018
 
@@ -20,10 +20,11 @@
   
    ###### Dominado:
    > Faltam certificações.
-   <img height="32" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+   
+   ‎ <img height="32" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
    <img height="32" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
    ###### Aprendendo:
-   <img height="32" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/>
+   ‎ <img height="32" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/>
    <img height="32" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
    <img height="32" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Nodejs"/>
    <img height="32" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
@@ -36,26 +37,24 @@
    <img height="32" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
   
    ###### Básico:
-   <img height="32" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
+   ‎ <img height="32" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
    <img height="32" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="VueJS"/>
    <img height="32" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
    <img height="32" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostegreSQL"/>
   
 
----
-
 ## ⭐ Meu Github
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=WendelLana&hide=html&layout=compact&theme=default)](https://github.com/iuricode/)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WendelLana&show_icons=true)
 
-Here are some ideas to get you started:
+Algumas curiosidades gerais:
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 Estou atualmente trabalhando em um projeto pessoal de software
+- 🌱 Estou fazendo o curso de extensão de Engenharia de Software pela USP
+<!---
+- 👯 Estou colaborando com alguns projetos de amigos
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: 
 - ⚡ Fun fact: ...
 -->
