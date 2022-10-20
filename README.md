@@ -49,8 +49,8 @@
 
 Algumas curiosidades gerais:
 
-- 🔭 Estou atualmente trabalhando em um projeto pessoal de software
-- 🌱 Estou fazendo o curso de extensão de Engenharia de Software pela USP
+- 🔭 Estou fazendo o curso de extensão de Engenharia de Software pela USP
+- 🌱 Em construção e organização
 <!---
 - 👯 Estou colaborando com alguns projetos de amigos
 - 🤔 I’m looking for help with ...
