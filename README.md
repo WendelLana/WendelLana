@@ -10,7 +10,7 @@
 💼 (dez. 2019 - jan. 2021) Estágiario de desenvolvimento na <a href="https://ax4b.com">AX4B.</a>, auxiliando no desenvolvimento do sistema da empresa Focvs e em projetos de Microsoft Dynamics CRM. Utilizando Boostrap/HTML/CSS para o frontend e no backend JavaScript/MySQL/SQL Server
 
 
-💼 (jan.2021 - out. 2021) Desenvolvedor Junior na <a href="https://ax4b.com">AX4B.</a>, dando continuidade ao trabalho já feio no período do estágio.
+💼 (jan.2021 - out. 2021) Desenvolvedor Junior na <a href="https://ax4b.com">AX4B.</a>, dando continuidade ao trabalho já feito no período do estágio.
 
 <a href="https://www.linkedin.com/in/wendel-de-lana/"><img height="32" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
