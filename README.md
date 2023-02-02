@@ -12,7 +12,9 @@
 
 💼 (jan.2021 - out. 2021) Desenvolvedor Junior na <a href="https://ax4b.com">AX4B.</a>, dando continuidade ao trabalho já feito no período do estágio, além de tarefas de criação de Workflow e Plugins para Microsoft Dynamics CRM em C#.
 
-<a href="https://www.linkedin.com/in/wendel-de-lana/"><img height="32" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+:computer: Formado no <a href="https://www.linkedin.com/in/wendel-de-lana/">Curso de Extensão Universitária de Difusão: Capacitação Tecnológica em Engenharia e Desenvolvimento de Software</a>
+
+<img height="32" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ----
 
