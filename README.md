@@ -7,10 +7,12 @@
 
 :man_technologist: Mudei minha graduação em 2020 para <a href="https://usp.br">USP</a> no curso de Sistemas da Informação.
 
-💼 (dez. 2019 - jan. 2021) Estágiario de desenvolvimento na <a href="https://ax4b.com">AX4B.</a>, auxiliando no desenvolvimento do sistema da empresa Focvs xRM e em projetos de Microsoft Dynamics CRM. Utilizando Boostrap/HTML/CSS para o frontend e no backend JavaScript/SQL Server
+💼 (dez. 2019 - jan. 2021) Estágiario de desenvolvimento na <a href="https://ax4b.com">AX4B</a>, auxiliando no desenvolvimento do sistema da empresa Focvs xRM e em projetos de Microsoft Dynamics CRM. Utilizando Boostrap/HTML/CSS para o frontend e no backend JavaScript/SQL Server
 
 
-💼 (jan.2021 - out. 2021) Desenvolvedor Junior na <a href="https://ax4b.com">AX4B.</a>, dando continuidade ao trabalho já feito no período do estágio, além de tarefas de criação de Workflow e Plugins para Microsoft Dynamics CRM em C#.
+💼 (jan.2021 - out. 2021) Desenvolvedor Junior na <a href="https://ax4b.com">AX4B</a>, dando continuidade ao trabalho já feito no período do estágio, além de tarefas de criação de Workflow e Plugins para Microsoft Dynamics CRM em C#.
+
+💼 (mar.2023 - presente) Desenvolvedor Estagiário na empresa <a href="https://bitnine.net/?ckattempt=1">Bitnine</a>, contribuindo no desenvolvimento do Apache AGE e projetos relacionados.
 
 :computer: Formado no <a href="https://portalservicos.usp.br/iddigital/QTFD-KR98-2BKZ-UXDF">Curso de Extensão Universitária de Difusão: Capacitação Tecnológica em Engenharia e Desenvolvimento de Software</a>
 
