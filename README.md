@@ -15,6 +15,7 @@
 💼 (mar. 2023 - ago. 2023) Desenvolvedor Estagiário na empresa <a href="https://bitnine.net/?ckattempt=1">Bitnine</a>, contribuindo no desenvolvimento do Apache AGE e projetos relacionados.
 
 :computer: Formado no <a href="https://portalservicos.usp.br/iddigital/QTFD-KR98-2BKZ-UXDF">Curso de Extensão Universitária de Difusão: Capacitação Tecnológica em Engenharia e Desenvolvimento de Software</a>
+
 :us: Experiência internacional em Los Angeles - USA no curso executivo de curta duração Digital Companies & E-Business Revolution pela California State University (CSUN), Northridge.
 
 <a href="https://www.linkedin.com/in/wendel-de-lana/"><img height="32" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
