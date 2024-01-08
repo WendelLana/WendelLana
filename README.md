@@ -10,11 +10,12 @@
 💼 (dez. 2019 - jan. 2021) Estágiario de desenvolvimento na <a href="https://ax4b.com">AX4B</a>, auxiliando no desenvolvimento do sistema da empresa Focvs xRM e em projetos de Microsoft Dynamics CRM. Utilizando Boostrap/HTML/CSS para o frontend e no backend JavaScript/SQL Server
 
 
-💼 (jan.2021 - out. 2021) Desenvolvedor Junior na <a href="https://ax4b.com">AX4B</a>, dando continuidade ao trabalho já feito no período do estágio, além de tarefas de criação de Workflow e Plugins para Microsoft Dynamics CRM em C#.
+💼 (jan. 2021 - out. 2021) Desenvolvedor Junior na <a href="https://ax4b.com">AX4B</a>, dando continuidade ao trabalho já feito no período do estágio, além de tarefas de criação de Workflow e Plugins para Microsoft Dynamics CRM em C#.
 
-💼 (mar.2023 - presente) Desenvolvedor Estagiário na empresa <a href="https://bitnine.net/?ckattempt=1">Bitnine</a>, contribuindo no desenvolvimento do Apache AGE e projetos relacionados.
+💼 (mar. 2023 - ago. 2023) Desenvolvedor Estagiário na empresa <a href="https://bitnine.net/?ckattempt=1">Bitnine</a>, contribuindo no desenvolvimento do Apache AGE e projetos relacionados.
 
 :computer: Formado no <a href="https://portalservicos.usp.br/iddigital/QTFD-KR98-2BKZ-UXDF">Curso de Extensão Universitária de Difusão: Capacitação Tecnológica em Engenharia e Desenvolvimento de Software</a>
+:us: Experiência internacional em Los Angeles - USA no curso executivo de curta duração Digital Companies & E-Business Revolution pela California State University (CSUN), Northridge.
 
 <a href="https://www.linkedin.com/in/wendel-de-lana/"><img height="32" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
@@ -36,12 +37,13 @@
    <img height="32" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server"/>
    <img height="32" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
    <img height="32" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+   <img height="32" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
    
    ###### Aprendendo:
    ‎ <img height="32" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.JS"/>
    <img height="32" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.JS"/>
    <img height="32" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
-   <img height="32" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+   <img height="32" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
    <img height="32" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
    <img height="32" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
   
