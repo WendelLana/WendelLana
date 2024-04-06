@@ -3,7 +3,7 @@
 
 :school: I graduated in a Computer Technical Course at <a href="https://etecjardimangela.com.br/">ETEC Jardim Ângela</a> in 2018.
 
-:computer: I studied in a extended course of <a href="https://portalservicos.usp.br/iddigital/QTFD-KR98-2BKZ-UXDF">Technological Training in Engineering and Software Development</a> certified by the <a href="http://pmt.usp.br/en/departamento/index.html">Polytechnic School of University of Sao Paulo</a> in 2022.
+:computer: I studied in a extended course of <a href="https://portalservicos.usp.br/iddigital/QTFD-KR98-2BKZ-UXDF">Technological Training in Engineering and Software Development</a> certified by the Polytechnic School of University of Sao Paulo in 2022.
 
 :man_student: I hold a Bachelor's degree in Information Systems from the <a href="https://usp.br">University of Sao Paulo - USP</a>, graduating in 2023.
 
@@ -13,7 +13,7 @@
 
 💼 (mar. 2023 - aug. 2023) Software Engineer at <a href="https://bitnine.net/?ckattempt=1">Bitnine</a>, contributing to the development of Apache AGE and related projects utilizing the C programming language and PostgreSQL. Responsible for both the creation and updating of technical documentation, as well as conducting regression tests.
 
-:us: International experience in Los Angeles, USA, through participation in the short-term executive course 'Digital Companies & E-Business Revolution' at California State University (CSUN), Northridge.
+![usa](https://github.com/WendelLana/WendelLana/blob/main/united-states-svgrepo-com.png) International experience in Los Angeles, USA, through participation in the short-term executive course 'Digital Companies & E-Business Revolution' at California State University (CSUN), Northridge.
 
 <a href="https://www.linkedin.com/in/wendel-de-lana/"><img height="32" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
